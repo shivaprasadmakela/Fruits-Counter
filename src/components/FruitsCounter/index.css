@@ -1,0 +1,55 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inner-container {
+  background-color: #ffffff;
+  height: 90vh;
+  width: 170vh;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fruits-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.image {
+  height: 50vh;
+  width: 50vh;
+  margin-bottom: 20px;
+}
+
+.heading {
+  margin-bottom: 10vh;
+}
+
+.fruits {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  height: 30px;
+  border: 0px;
+  border-radius: 6px;
+}
+
+.span-el {
+  color: #ffd569;
+}
